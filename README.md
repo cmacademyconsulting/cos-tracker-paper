@@ -3,7 +3,7 @@
 **Author:** Susil Bhandari  
 **Affiliations:** CM Academy; NeoPlan Consult Pvt. Ltd., Nepal  
 **Version:** Working Paper v1.0 (November 2025)  
-**DOI:** [to be added once Zenodo DOI is generated]
+**DOI:** Pending Zenodo release  
 
 ---
 
@@ -23,7 +23,7 @@ Donor-funded infrastructure projects often face fragmented compliance records, w
 ## 🔗 Citation
 If you use this work, please cite as:
 
-> Bhandari, S. (2025). COS™ Blockchain Tracker: Ethics-First Compliance Logging for Infrastructure Governance. *CM Academy Working Papers Series*, 1(1), 1–14. DOI: [to be added]
+> Bhandari, S. (2025). COS™ Blockchain Tracker: Ethics-First Compliance Logging for Infrastructure Governance. *CM Academy Working Papers Series*, 1(1), 1–14. DOI: Pending Zenodo release
 
 ---
 
@@ -41,4 +41,9 @@ For permissions, contact: **cm.academy.consulting@gmail.com**
 - Hackathon prototype (Nov 2025)  
 - Pilot deployment with donor agency (2026)  
 - CM Academy training modules  
-- Global certification ecosystem
+- Global certification ecosystem  
+
+---
+
+## 🔑 Keywords
+Governance · ESG · Blockchain · Compliance · Audit trail · Donor transparency
