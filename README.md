@@ -85,3 +85,7 @@ This ethics‑first methodology positions COS™ as a **pathfinder for global go
 ## 🔑 Keywords  
 Governance · ESG · Blockchain · Compliance · Audit trail · Donor transparency · Ethics‑first  
 
+## 📚 Supporting Documentation
+- [/docs/roadmap.md](docs/roadmap.md) – Development phases and milestones  
+- [/docs/ethics_statement.md](docs/ethics_statement.md) – Data protection and governance principles  
+- [/docs/references.bib](docs/references.bib) – Academic references in BibTeX format  
