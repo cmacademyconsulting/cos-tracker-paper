@@ -73,7 +73,7 @@ This ethics‑first methodology positions COS™ as a **pathfinder for global go
 
 ## 📊 Visual Methodology
 
-![COS™ Manifesto Poster](figures/manifesto_poster.pdf)  
+![COS™ Manifesto Poster](figures/manifesto_poster.png)  
 *Figure 1: Ethics-first governance framework developed by CM Academy.*
 
 ![COS™ Blockchain Compliance Tracker Diagram](figures/methodology_diagram.png)  
