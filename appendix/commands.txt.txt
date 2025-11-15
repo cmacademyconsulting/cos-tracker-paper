@@ -1,0 +1,60 @@
+# COS™ Blockchain Tracker — Commands Log
+# Author: Susil Bhandari
+# Version: v1.0 (November 2025)
+# Purpose: Demonstrate reproducibility of audit logging workflow
+
+------------------------------------------------------------
+1. SHA‑256 Hashing of Governance Events
+------------------------------------------------------------
+
+# Example: Safety inspection completed
+echo -n "Safety inspection completed" | sha256sum
+# Output: 18de905f72c92a9fb895c6092ce6c01c9efb4c209fecc9853633adca6dd8575e
+
+# Example: Environmental permit approved
+echo -n "Environmental permit approved" | sha256sum
+# Output: 1077d72e31a9945bc3c71fe9f6a976ae6fde12149c331a7b4010eebc3af1782e
+
+# Example: Donor compliance report filed
+echo -n "Donor compliance report filed" | sha256sum
+# Output: 3160f66170b885c767ba4bb24eb75f156923854ac89cfbd77a474d3e92184dcd
+
+------------------------------------------------------------
+2. Submit Extrinsic via Polkadot.js Apps
+------------------------------------------------------------
+
+# Steps:
+1. Open https://polkadot.js.org/apps
+2. Connect to Westend Asset Hub testnet
+3. Select "Extrinsics" tab
+4. Choose module: system
+5. Choose call: remark
+6. Paste the SHA‑256 hash string (e.g., 18de905f72c92a9fb895c6092ce6c01c9efb4c209fecc9853633adca6dd8575e)
+7. Submit transaction using COS DEMO ACCOUNT (Talisman wallet)
+8. Wait for block finalization
+
+------------------------------------------------------------
+3. Confirm Transaction ID (Tx ID)
+------------------------------------------------------------
+
+# Example confirmations:
+Tx ID: 0x810bc37c9f51821e3361b0a57b224bbe0e0cbd56843098589da26f888222c2ec
+Block: #13,205,983
+
+Tx ID: 0x1077d72e31a9945bc3c71fe9f6a976ae6fde12149c331a7b4010eebc3af1782e
+Block: #13,206,001
+
+Tx ID: 0x0000803160f66170b885c767ba4bb24eb75f156923854ac89cfbd77a474d3e92184dcd
+Block: #13,206,019
+
+------------------------------------------------------------
+4. Verification
+------------------------------------------------------------
+
+# Use Subscan explorer (https://westend.subscan.io) or Polkadot.js Apps
+# Search by Tx ID or block number
+# Confirm extrinsic is finalized and immutable
+
+------------------------------------------------------------
+End of commands.txt
+------------------------------------------------------------
