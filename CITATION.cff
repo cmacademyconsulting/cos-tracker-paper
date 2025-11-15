@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Bhandari
+    given-names: Susil
+    affiliation: CM Academy; NeoPlan Consult Pvt. Ltd., Nepal
+title: "COS™ Blockchain Tracker: Ethics‑First Compliance Logging for Infrastructure Governance"
+version: "v1.0"
+date-released: 2025-11-11
+doi: "10.5281/zenodo.xxxxx"   # Replace with actual DOI once minted
+license: "All rights reserved"
+keywords:
+  - Governance
+  - ESG
+  - Blockchain
+  - Compliance
+  - Audit trail
+  - Donor transparency
+  - Ethics-first
