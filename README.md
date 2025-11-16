@@ -73,6 +73,7 @@ DOI: https://doi.org/10.5281/zenodo.17620309
 - Pilot deployment with donor agency (2026)  
 - CM Academy training modules  
 - Global certification ecosystem  
+📈 Future Use: PhD application materials, CM Academy training modules, and global certification ecosystem.
 
 ---
 
@@ -118,6 +119,12 @@ Governance · ESG · Blockchain · Compliance · Audit trail · Donor transparen
 - Demo Video: [YouTube](https://youtube.com/shorts/eFbl3iHJOic?feature=share)
 - Working Paper: [Zenodo DOI](https://doi.org/10.5281/zenodo.17620309)
 - Repository: [GitHub](https://github.com/cmacademyconsulting/cos-tracker-paper)
+👉 Judges: Please start with the Demo Video, then verify Tx IDs via Quick Start.
+
+
+📧 Contact: CM Academy | NeoPlan Consult Pvt. Ltd.
 
 ## 🔍 GitHub Topics
 polkadot · blockchain-compliance · governance · esg · audit-trail · donor-transparency · ethics-first
+
+#PolkadotHackathon #Sub0 #Governance #Compliance #Blockchain #ESG #AuditTrail
