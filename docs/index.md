@@ -9,6 +9,7 @@ These documents provide strategic context, ethical framing, technical references
 - [ethics_statement.md](ethics_statement.md) — Ethics‑first governance principles  
 - [references.bib](references.bib) — Academic references in BibTeX format  
 - [../appendix/audit_table.csv](../appendix/audit_table.csv) — On‑chain proofs with Tx IDs and hashes
+- [../appendix/audit_table.csv](../appendix/audit_table.csv) — On‑chain proofs with Tx IDs and hashes
 
 ## 🚀 How to Use
 1. Start with [roadmap.md](roadmap.md) to understand project phases.  
