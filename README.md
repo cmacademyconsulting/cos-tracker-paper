@@ -1,8 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17620309.svg)](https://doi.org/10.5281/zenodo.17620309)
-
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](LICENSE)
-
-
 
 🏆 Hackathon Context  
 Submitted to the Polkadot Global Hackathon 2025 (Sub0) — Governance & Compliance Track as a prototype demonstrating ethics‑first compliance logging using Polkadot.js and Westend/Paseo testnets.
@@ -13,13 +10,12 @@ Submitted to the Polkadot Global Hackathon 2025 (Sub0) — Governance & Complian
 3. Paste into the explorer, verify block number and account.
 4. Review /docs/ethics_statement.md for governance commitments.
 
-
 # COS™ Blockchain Tracker: Ethics‑First Compliance Logging for Infrastructure Governance  
 
 **Author:** Susil Bhandari  
 **Affiliations:** CM Academy; NeoPlan Consult Pvt. Ltd., Nepal  
-**Version:** Working Paper v1.0 (November 2025)  
-**DOI:** Pending Zenodo release  
+**Version:** Working Paper v1.1 (November 2025)  
+**DOI:** https://doi.org/10.5281/zenodo.17620309  
 
 ---
 
@@ -39,7 +35,7 @@ All COS™ audit events have now been immutably logged on the **Westend Asset Hu
 | Project002 | Environmental permit approved     | Carbon Emissions    | 10 Nov 2025  | Govt Authority    | On‑chain logged   | `1077d72e31a9945bc3c71fe9f6a976ae6fde12149c331a7b4010eebc3af1782e` | `0x1077d72e31a9945bc3c71fe9f6a976ae6fde12149c331a7b4010eebc3af1782e` (Block #13,206,001, Account: `5GxB6wrAz...`) |
 | Project003 | Donor compliance report filed     | Gender Inclusion    | 09 Nov 2025  | Project Manager   | On‑chain submitted| `3160f66170b885c767ba4bb24eb75f156923854ac89cfbd77a474d3e92184dcd` | `0x0000803160f66170b885c767ba4bb24eb75f156923854ac89cfbd77a474d3e92184dcd` (Block #13,206,019, Account: `5GxB6wrAz...`) |
 
-📂 Screenshots and decode proofs are stored in `/appendix/screenshots/`. Explorer links will be added in **Release v1.1** once Subscan sync stabilizes.  
+📂 Screenshots and decode proofs are stored in `/appendix/screenshots/`.
 
 ---
 
@@ -52,10 +48,8 @@ All COS™ audit events have now been immutably logged on the **Westend Asset Hu
 
 ---
 
-
-🔗 Citation
-Bhandari, S. (2025). COS™ Blockchain Tracker: Ethics‑First Compliance Logging for Infrastructure Governance. Zenodo. https://doi.org/10.5281/zenodo.17620309
-
+🔗 Citation  
+Bhandari, S. (2025). COS™ Blockchain Tracker: Ethics‑First Compliance Logging for Infrastructure Governance. CM Academy Working Papers Series, 1(1), 1–14. Zenodo. https://doi.org/10.5281/zenodo.17620309  
 
 ---
 
@@ -94,8 +88,12 @@ This ethics‑first methodology positions COS™ as a **pathfinder for global go
 ![COS™ Blockchain Submission Flow](figures/flowchart_tx_submission.png)  
 *Figure 3: Stepwise process for converting governance events into immutable blockchain records.*
 
+---
+
 ## 🔑 Keywords  
 Governance · ESG · Blockchain · Compliance · Audit trail · Donor transparency · Ethics‑first  
+
+---
 
 ## 📚 Supporting Documentation
 - [/docs/roadmap.md](docs/roadmap.md) – Development phases and milestones  
