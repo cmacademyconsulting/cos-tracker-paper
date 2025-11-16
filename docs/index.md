@@ -18,8 +18,9 @@ These documents provide strategic context, ethical framing, technical references
 4. Cite references from [references.bib](references.bib) in academic work.  
 
 ## 🔗 Citation
-Please cite the COS™ Blockchain Tracker using the Zenodo DOI once minted:  
-Bhandari, S. (2025). COS™ Blockchain Tracker: Ethics‑First Compliance Logging for Infrastructure Governance. Zenodo. https://doi.org/10.5281/zenodo.xxxxx
+Please cite the COS™ Blockchain Tracker using the Zenodo DOI:  
+Bhandari, S. (2025). COS™ Blockchain Tracker: Ethics‑First Compliance Logging for Infrastructure Governance. Zenodo. https://doi.org/10.5281/zenodo.17620309
+
 
 ---
 📧 Contact: cm.academy.consulting@gmail.com  
