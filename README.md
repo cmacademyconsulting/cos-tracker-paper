@@ -24,6 +24,11 @@ Donor‑funded infrastructure projects often face fragmented compliance records,
 
 Proof‑of‑concept demonstrations on Westend/Paseo testnets confirm feasibility, with **Tx IDs serving as audit‑ready references**. The system enhances trust for donors, reduces risks for project managers, and assures communities of **ethical and sustainable project delivery**.  
 
+This prototype demonstrates how blockchain can serve as a cultural commitment to integrity, not just a technical tool.
+
+🎥 Demo Video  
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtube.com/shorts/eFbl3iHJOic?feature=share)
+
 ---
 
 ## 📊 COS Audit Tracker — On‑Chain Proofs  
@@ -98,7 +103,17 @@ Governance · ESG · Blockchain · Compliance · Audit trail · Donor transparen
 
 ---
 
+
+📘 Working Paper: [Zenodo DOI](https://doi.org/10.5281/zenodo.17620309)  
+📂 Repository: [GitHub](https://github.com/cmacademyconsulting/cos-tracker-paper)
+
 ## 📚 Supporting Documentation
 - [/docs/roadmap.md](docs/roadmap.md) – Development phases and milestones  
 - [/docs/ethics_statement.md](docs/ethics_statement.md) – Data protection and governance principles  
-- [/docs/references.bib](docs/references.bib) – Academic references in BibTeX format  
+- [/docs/references.bib](docs/references.bib) – Academic references in BibTeX format
+
+## ✅ Submission Package
+- Demo Video: [YouTube](https://youtube.com/shorts/eFbl3iHJOic?feature=share)
+- Working Paper: [Zenodo DOI](https://doi.org/10.5281/zenodo.17620309)
+- Repository: [GitHub](https://github.com/cmacademyconsulting/cos-tracker-paper)
+
