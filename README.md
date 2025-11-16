@@ -1,5 +1,5 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](LICENSE)
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17620309.svg)](https://doi.org/10.5281/zenodo.17620309)
 
 🏆 Hackathon Context  
 Submitted to the Polkadot Global Hackathon 2025 (Sub0) — Governance & Compliance Track as a prototype demonstrating ethics‑first compliance logging using Polkadot.js and Westend/Paseo testnets.
