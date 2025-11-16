@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17620309.svg)](https://doi.org/10.5281/zenodo.17620309)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](LICENSE)
+Official submission package: Demo video + DOI + GitHub repo for reproducibility.
+
 
 🏆 Hackathon Context  
 Submitted to the Polkadot Global Hackathon 2025 (Sub0) — Governance & Compliance Track as a prototype demonstrating ethics‑first compliance logging using Polkadot.js and Westend/Paseo testnets.
@@ -117,3 +119,5 @@ Governance · ESG · Blockchain · Compliance · Audit trail · Donor transparen
 - Working Paper: [Zenodo DOI](https://doi.org/10.5281/zenodo.17620309)
 - Repository: [GitHub](https://github.com/cmacademyconsulting/cos-tracker-paper)
 
+## 🔍 GitHub Topics
+polkadot · blockchain-compliance · governance · esg · audit-trail · donor-transparency · ethics-first
