@@ -54,7 +54,10 @@ Bhandari, S. (2025). COS™ Blockchain Tracker: Ethics‑First Compliance Loggin
 ---
 
 ## 🌍 License & Copyright  
-Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+© 2025 Susil Bhandari & CM Academy. COS™ is a registered trademark.  
+This work is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).  
+DOI: https://doi.org/10.5281/zenodo.17620309
+
 
 ---
 
