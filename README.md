@@ -1,3 +1,16 @@
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](LICENSE)
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxx)
+
+🏆 Hackathon Context  
+Submitted to the Polkadot Global Hackathon 2025 (Sub0) — Governance & Compliance Track as a prototype demonstrating ethics‑first compliance logging using Polkadot.js and Westend/Paseo testnets.
+
+## 🚀 Quick Start
+1. Open https://polkadot.js.org/apps (Westend/Paseo).
+2. Copy a Tx ID from /appendix/audit_table.csv.
+3. Paste into the explorer, verify block number and account.
+4. Review /docs/ethics_statement.md for governance commitments.
+
+
 # COS™ Blockchain Tracker: Ethics‑First Compliance Logging for Infrastructure Governance  
 
 **Author:** Susil Bhandari  
@@ -27,11 +40,12 @@ All COS™ audit events have now been immutably logged on the **Westend Asset Hu
 
 ---
 
-## 📂 Repository Contents  
-- `/paper/` – Full working paper (PDF)  
-- `/figures/` – Diagrams and dashboard visuals  
-- `/appendix/` – Tx IDs, commands, screenshots  
-- `README.md` – Project overview and citation  
+📂 Repository Contents
+- [/paper](paper/) – Full working paper (PDF)
+- [/figures](figures/) – Diagrams and dashboard visuals
+- [/appendix](appendix/) – Tx IDs, commands, screenshots
+- [/docs](docs/) – Roadmap, ethics statement, references
+- [README.md](README.md) – Project overview and citation
 
 ---
 
@@ -43,12 +57,7 @@ If you use this work, please cite as:
 ---
 
 ## 🌍 License & Copyright  
-© 2025 Susil Bhandari. All rights reserved.  
-
-This work is provided for academic review and citation purposes only.  
-Permission must be obtained from the author prior to reproduction, distribution, or reuse in any form.  
-
-For permissions, contact: **cm.academy.consulting@gmail.com**  
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 ---
 
