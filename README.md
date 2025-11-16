@@ -49,10 +49,10 @@ All COS™ audit events have now been immutably logged on the **Westend Asset Hu
 
 ---
 
-## 🔗 Citation  
-If you use this work, please cite as:  
 
-**Bhandari, S. (2025). COS™ Blockchain Tracker: Ethics‑First Compliance Logging for Infrastructure Governance. CM Academy Working Papers Series, 1(1), 1–14. DOI: Pending Zenodo release**  
+🔗 Citation
+Bhandari, S. (2025). COS™ Blockchain Tracker: Ethics‑First Compliance Logging for Infrastructure Governance. Zenodo. https://doi.org/10.5281/zenodo.17620309
+
 
 ---
 
